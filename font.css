@@ -1,0 +1,14 @@
+
+
+@font-face {
+  font-family: 'Nanum Square';
+  src: url('fonts/NanumSquareEB.eot'); /* IE9 Compat Modes */
+  src: url('fonts/NanumSquareEB.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/NanumSquareEB.woff') format('woff'), /* Modern Browsers */
+       url('fonts/NanumSquareEB.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/NanumSquareOTFExtraBold.svg#090d6763bc81b49309446d23fbd10e87') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  normal;
+}
+
